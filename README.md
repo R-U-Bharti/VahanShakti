@@ -80,3 +80,5 @@ To learn more about React Native, take a look at the following resources:
 
 
 android:networkSecurityConfig="@xml/network_security_config"
+
+gradlew assembleRelease -Dlint.baselines.continue=true
