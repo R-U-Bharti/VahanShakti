@@ -82,3 +82,34 @@ To learn more about React Native, take a look at the following resources:
 android:networkSecurityConfig="@xml/network_security_config"
 
 gradlew assembleRelease -Dlint.baselines.continue=true
+
+Android 14: API level 34
+Android 13: API level 33
+Android 12: API level 31,32
+Android 11: API level 30
+Android 10.0: API level 29
+Android 9.0 (Pie): API level 28
+Android 8.1 (Oreo): API level 27
+Android 8.0 (Oreo): API level 26
+Android 7.1 (Nougat): API level 25
+Android 6.0 (Marshmallow): API level 23
+Android 5.1 (Lollipop): API level 22
+Android 5.0 (Lollipop): API level 21
+Android 4.4W (KitKat, with wearable extensions): API level 20
+Android 4.4 (KitKat): API level 19
+Android 4.3 (Jelly Bean): API level 18
+Android 4.2 (Jelly Bean): API level 17
+Android 4.1 (Jelly Bean): API level 16
+Android 4.0.3 - 4.0.4 (Ice Cream Sandwich): API level 15
+Android 4.0 - 4.0.2 (Ice Cream Sandwich): API level 14
+Android 3.2 (Honeycomb): API level 13
+Android 3.1 (Honeycomb): API level 12
+Android 3.0 (Honeycomb): API level 11
+Android 2.3.3 - 2.3.4 (Gingerbread): API level 10
+Android 2.3 - 2.3.2 (Gingerbread): API level 9
+Android 2.2.x (Froyo): API level 8
+Android 2.1.x (Eclair): API level 7
+Android 2.0.1 (Eclair): API level 6
+Android 2.0 (Eclair): API level 5
+Android 1.6 (Donut): API level 4
+Android 1.5 (Cupcake): API level 3
